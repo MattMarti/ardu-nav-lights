@@ -1,7 +1,5 @@
 # ardu-nav-lights
 
-## Intro
-
 This is a Rust program used to control navigation lights for an RC Airplane with an Arduino Nano. I think that it would be fun to be able to turn on nav lights when the sun is low. This is also a fun opportunity for me to dip my toes into embedded Rust.
 
 Disclaimer: I do not plan to fly RC airplanes at night, even with nav lights, since that [violates FAA regulations](https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107#:~:text=You%20can%20fly%20during%20daylight,drone%20has%20anti%2Dcollision%20lighting.).
